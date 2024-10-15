@@ -12,3 +12,6 @@ conda activate llmapp
 
 pip install -r requirements.txt
 
+# run your front end application
+
+streamlit run main.py
